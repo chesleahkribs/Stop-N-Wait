@@ -1,0 +1,50 @@
+time 0.000000: sender got ACK0, transmitting new frame: good transmission 
+time 2.000000: receiver got frame 0, transmitting ACK1: bad transmission 
+time 3.500000: sender time out on frame 0, retransmitting it: bad transmission 
+time 7.000000: sender time out on frame 0, retransmitting it: bad transmission 
+time 10.500000: sender time out on frame 0, retransmitting it: bad transmission 
+time 14.000000: sender time out on frame 0, retransmitting it: good transmission 
+time 16.000000: receiver got frame 0, transmitting ACK1: bad transmission 
+time 17.500000: sender time out on frame 0, retransmitting it: good transmission 
+time 19.500000: receiver got frame 0, transmitting ACK1: bad transmission 
+time 21.000000: sender time out on frame 0, retransmitting it: bad transmission 
+time 24.500000: sender time out on frame 0, retransmitting it: good transmission 
+time 26.500000: receiver got frame 0, transmitting ACK1: good transmission 
+time 27.500000: sender got ACK1, transmitting new frame: bad transmission 
+time 31.000000: sender time out on frame 1, retransmitting it: good transmission 
+time 33.000000: receiver got frame 1, transmitting ACK2: good transmission 
+time 34.000000: sender got ACK2, transmitting new frame: bad transmission 
+time 37.500000: sender time out on frame 2, retransmitting it: bad transmission 
+time 41.000000: sender time out on frame 2, retransmitting it: bad transmission 
+time 44.500000: sender time out on frame 2, retransmitting it: good transmission 
+time 46.500000: receiver got frame 2, transmitting ACK3: good transmission 
+time 47.500000: sender got ACK3, transmitting new frame: good transmission 
+time 49.500000: receiver got frame 3, transmitting ACK4: good transmission 
+time 50.500000: sender got ACK4, transmitting new frame: good transmission 
+time 52.500000: receiver got frame 4, transmitting ACK5: good transmission 
+time 53.500000: sender got ACK5, transmitting new frame: good transmission 
+time 55.500000: receiver got frame 5, transmitting ACK6: bad transmission 
+time 57.000000: sender time out on frame 5, retransmitting it: good transmission 
+time 59.000000: receiver got frame 5, transmitting ACK6: good transmission 
+time 60.000000: sender got ACK6, transmitting new frame: good transmission 
+time 62.000000: receiver got frame 6, transmitting ACK7: good transmission 
+time 63.000000: sender got ACK7, transmitting new frame: bad transmission 
+time 66.500000: sender time out on frame 7, retransmitting it: good transmission 
+time 68.500000: receiver got frame 7, transmitting ACK8: bad transmission 
+time 70.000000: sender time out on frame 7, retransmitting it: bad transmission 
+time 73.500000: sender time out on frame 7, retransmitting it: good transmission 
+time 75.500000: receiver got frame 7, transmitting ACK8: good transmission 
+time 76.500000: sender got ACK8, transmitting new frame: good transmission 
+time 78.500000: receiver got frame 8, transmitting ACK9: good transmission 
+time 79.500000: sender got ACK9, transmitting new frame: good transmission 
+time 81.500000: receiver got frame 9, transmitting ACK10: good transmission 
+time 82.500000: sender got ACK10, transmitting new frame: bad transmission 
+time 86.000000: sender time out on frame 10, retransmitting it: good transmission 
+time 88.000000: receiver got frame 10, transmitting ACK11: good transmission 
+time 89.000000: sender got ACK11, transmitting new frame: bad transmission 
+time 92.500000: sender time out on frame 11, retransmitting it: bad transmission 
+time 96.000000: sender time out on frame 11, retransmitting it: good transmission 
+time 98.000000: receiver got frame 11, transmitting ACK12: good transmission 
+time 99.000000: sender got ACK12, transmitting new frame: bad transmission 
+time 102.500000: sender time out on frame 12, retransmitting it: bad transmission 
+
